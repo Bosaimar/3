@@ -1,2 +1,3 @@
-# stepik-auto-tests-course
-stepik - homework
+This is project for Stepik.
+Yes
+
